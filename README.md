@@ -1,3 +1,6 @@
+Author
+==========
+"Zhong, Mingwei", zhongm2
 04_Linked_List_Lab
 ==================
 
